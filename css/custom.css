@@ -1,0 +1,90 @@
+.chart-active .the-chart {
+  border-color: #246686 !important;
+}
+
+.child .the-chart {
+  font-weight: bold;
+  font-size: 14px;
+  color: #848484 !important;
+  border-color: #cbcbcb !important;
+}
+
+.the-chart {
+  padding: 2px 50px;
+  border: 1px solid #3498db;
+  border-radius: 5px;
+  height: 100%; }
+
+.text-center {
+  text-align: center;
+  margin-top: 5%;
+  color: green;
+}
+
+.predict{
+  padding: 7px;
+  border: 1px solid #3498db;
+  border-radius: 5px;
+  height: 100%;
+  margin-right: 10px;
+}
+.predict-img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.container-index-page{
+  margin-top: 10%;
+}
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.round {
+  border-radius: 50%;
+}
+.text-right{
+  margin-top: 67px !important;
+  margin-right: 20px !important;
+  text-align: right;
+}
+.question{
+  padding-top: 10px;
+}
+
+.predict-text
+{
+  font-size: medium;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 13px;
+}
+#predict-chart{
+  padding: 180px !important;
+}
+.child{
+  background-color: #cbcbcb !important;
+  color: #848484;
+}
+
+li .the-chart {
+  background-color: #f4f4f4 !important;
+}
+/*# sourceMappingURL=maps/custom.css.map */
